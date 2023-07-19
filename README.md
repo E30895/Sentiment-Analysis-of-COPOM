@@ -8,9 +8,15 @@ Dessa análise períodica foi construída a série temporal dos sentimentos do C
 
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/ebb013e2-ffee-472e-a955-e0de713023cd)# Sentiment-Analysis-of-COPOM
 
-Resultados do Protocolo de Pfaff (2008)
-==============================================================
-                               Processo Gerador               
---------------------------------------------------------------
-sentimento_copom Estacionário ao Redor de uma Tendência Linear
---------------------------------------------------------------
+\begin{table}[!htbp] \centering 
+  \caption{Resultados do Protocolo de Pfaff (2008)} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Processo Gerador \\ 
+\hline \\[-1.8ex] 
+sentimento\_copom & Estacionário ao Redor de uma Tendência Linear \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{table} 
