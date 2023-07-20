@@ -19,3 +19,4 @@ Dessa análise períodica foi construída a série temporal dos sentimentos do C
 ## Referências
 
 Costa, Hudson Chaves. "Ensaios em macroeconomia aplicada." (2016).
+
