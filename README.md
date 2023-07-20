@@ -14,3 +14,8 @@ Dessa análise períodica foi construída a série temporal dos sentimentos do C
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Processo Gerador</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">sentimento_copom</td><td>Estacionário ao Redor de uma Tendência Linear</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr></table>
+
+----------------
+## Referências
+
+Costa, Hudson Chaves. "Ensaios em macroeconomia aplicada." (2016).
