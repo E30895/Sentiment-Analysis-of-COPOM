@@ -11,7 +11,7 @@ library(ggtext)
 source('get_atas.R')
 source('get_transform.R')
 source('get_Loughran_McDonald.R')
-source('sentiment_analysis.R')
+source('get_sentiment_analysis.R')
 source('get_graphics.R')
 
 atas = get_atas()
