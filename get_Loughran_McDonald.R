@@ -1,4 +1,7 @@
 get_Loughran_McDonald = function(){
+
+  "Essa função obtem o dicionário de Loughran and McDonald
+  e filtra apenas as palavras positivas e negativas"
   
   dicionario = textdata::lexicon_loughran() %>% 
     dplyr::mutate(
