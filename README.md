@@ -1,6 +1,5 @@
 ## Introdução
 
-::: {align="justify"}
 Nesse material iremos explorar uma vertente não tão ortodoxa na
 economia, onde iremos explorar de técnicas de NPL para quantificar
 informações apresentadas de forma categórica.
