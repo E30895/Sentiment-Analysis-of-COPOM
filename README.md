@@ -1,18 +1,3 @@
----
-title: "Sentiment Analysis of COPOM"
-author: "Nathan Ramos D. Almeida"
-date: "2023-07-21, atualizado em `r Sys.Date()`"
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    toc_float: true
-    
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 ## Introdução
 
 ::: {align="justify"}
