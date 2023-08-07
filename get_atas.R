@@ -20,7 +20,7 @@ get_atas = function(){
   atas_texto = atas_texto %>% 
     dplyr::mutate(
       
-      data = as.Date(atas_texto$DataReferencia),
+      date = as.Date(atas_texto$DataReferencia),
       
       ata = stringr::str_extract(string = Titulo, pattern = "^[[:digit:]]{2,3}") %>% 
         as.numeric(),
@@ -42,3 +42,4 @@ get_atas = function(){
   return(atas_texto)
   
 }
+
