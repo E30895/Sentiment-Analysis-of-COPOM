@@ -46,6 +46,7 @@ get_graphics = function(sentiment_analysis){
     ggplot2::annotate("text", x = as.Date('2008-01-01'), y = -0.4, label = "2008", hjust = 0, color = "black")+
     ggplot2::annotate("text", x = as.Date('2014-04-14'), y = -0.4, label = "Recessao", hjust = 0, color = "black")+
     ggplot2::annotate("text", x = as.Date('2019-12-11'), y = -0.6, label = "Pandemia", hjust = 0, color = "black")+
+    
     labs(title = "Sentiment Series - Score Sentiment",
           subtitle = paste("2000-01 to", hoje),
           x = "Data",
