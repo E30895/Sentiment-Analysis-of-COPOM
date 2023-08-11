@@ -1,6 +1,6 @@
 ## Resumo
 
-Essa é uma aplicação que consome a API do Banco Central do Brasil (BCB) para obter as atas do comitê de politica monetária (COPOM) e realizar o processamento de linguagem natural (NPL) obtendo a análise de sentimentos do COPOM. 
+Nesse material iremos explorar uma vertente não tão ortodoxa na economia, onde iremos abordar técnicas de processamento de linguagem natural (NPL) para quantificar informações apresentadas de forma categórica.
 
 Dessa análise períodica foi construída a série temporal dos sentimentos do COPOM, que poderá ser utilizada como proxy para espectativas da politica monetária, servindo como instrumental para modelagem econometrica.
 
