@@ -8,7 +8,7 @@ Para o desenvolvimento deste material, nos apoiaremos em (Costa 2016) e (Nopp an
 
 ### NPL
 
-O Processamento de Linguagem Natural (NPL) é uma vertente computacional intimamente ligada ao Aprendizado de Máquina, cujo propósito é extrair e mensurar informações contidas em um ou mais conjuntos textuais, denominados Corpus.
+O Processamento de Linguagem Natural (NPL) é uma vertente computacional intimamente ligada ao Aprendizado de Máquina, cujo propósito é extrair e mensurar informações contidas em um ou mais conjuntos textuais, denominados Corpus.
 
 De maneira simplificada, o NPL abrange um conjunto de técnicas que permitem a extração, quantificação, estimativa e modelagem abrangente de informações, bem como possibilita a interpretação empírica de decisões.
 
