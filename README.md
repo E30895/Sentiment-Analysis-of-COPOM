@@ -1,16 +1,10 @@
 
 ## Introdução
-<div style="text-align: justify">
-  Neste conteúdo, exploraremos uma abordagem econômica menos convencional, utilizando técnicas de Processamento de Linguagem Natural (NPL) para quantificar informações categoricamente nas atas do comite de politica       
-  montetária (COPOM).
-</div>
+Neste conteúdo, exploraremos uma abordagem econômica menos convencional, utilizando técnicas de Processamento de Linguagem Natural (NPL) para quantificar informações categoricamente nas atas do comite de politica montetária (COPOM).
 
 ## Metodologia
 
-<div style="text-align: justify">
-  Para o desenvolvimento deste material, nos apoiaremos em (Costa 2016) e (Nopp and Hanbury 2015), no qual é empregado uso de técnicas (nem tão) modernas de estatística e linguística computacional para realizar o   
-  procedimento de processamento de linguagem natural (NPL).
-</div>
+Para o desenvolvimento deste material, nos apoiaremos em (Costa 2016) e (Nopp and Hanbury 2015), no qual é empregado uso de técnicas (nem tão) modernas de estatística e linguística computacional para realizar o procedimento de processamento de linguagem natural (NPL).
 
 ### NPL
 
