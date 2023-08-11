@@ -52,3 +52,9 @@ Por esse motivo, iremos utilizar o dicionário de Loughran McDonald.
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/fe57eb25-5edb-4779-ada8-f071b17d827a)
 
 - Em primeiro momento, observa-se que tanto no gráfico de single sentiment quando no gráfico de score os sentimentos mensurados respondem aos momentos de inflexão economica, gerados na crise de 2008, na recessão de 2015-16 onde o PIB apresentou constantes quedas e em 2020 com a chegada da pandemia onde a atividade global despencou.
+
+## Referências
+
+Costa, Hudson Chaves. 2016. “Ensaios Em Macroeconomia Aplicada.”
+Loughran, Tim, and Bill McDonald. 2011. “When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks.” The Journal of Finance 66 (1): 35–65.
+Nopp, Clemens, and Allan Hanbury. 2015. “Detecting Risks in the Banking System by Sentiment Analysis.” In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, 591–600.
