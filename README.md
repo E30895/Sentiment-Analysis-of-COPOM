@@ -39,7 +39,7 @@ Iremos adotar o método (2), pois com ele é possível obter a participação re
 
 ### Dicionário
 
-A análise de sentimentos requer um dicionário que capture o valor semântico das palavras para garantir a qualidade da interpretação. 
+A análise de sentimentos requer um dicionário que capture o valor semântico das palavras para garantir a qualidade da interpretação. 
 
 De acordo com (Loughran and McDonald 2011), 73,8% das palavras corriqueiras do dia-dia apresentam um contexto diferente quando aplicadas as finanças, portanto, ao utilizar-se de um dicionário genérico, a interpretação do Corpus pode ser equivocada. 
 
