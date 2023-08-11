@@ -51,4 +51,4 @@ Por esse motivo, iremos utilizar o dicionário de Loughran McDonald.
 
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/fe57eb25-5edb-4779-ada8-f071b17d827a)
 
-- Em primeiro momento, observa-se que tanto no gráfico de single sentiment quando no gráfico de score os sentimentos mensurados respondem aos momentos de inflexão economica, gerados em 2008, na recessão de 2015-16 
+- Em primeiro momento, observa-se que tanto no gráfico de single sentiment quando no gráfico de score os sentimentos mensurados respondem aos momentos de inflexão economica, gerados na crise de 2008, na recessão de 2015-16 onde o PIB apresentou constantes quedas e em 2020 com a chegada da pandemia onde a atividade global despencou.
