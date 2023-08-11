@@ -8,7 +8,7 @@ Para o desenvolvimento deste material, nos apoiaremos em (Costa 2016) e (Nopp an
 
 ### NPL
 
-O Processamento de Linguagem Natural (NPL) é uma vertente computacional intimamente ligada ao Aprendizado de Máquina, cujo propósito é extrair e mensurar informações contidas em um ou mais conjuntos textuais, denominados Corpus.
+O Processamento de Linguagem Natural (NPL) é uma vertente computacional intimamente ligada ao Aprendizado de Máquina, cujo propósito é extrair e mensurar informações contidas em um ou mais conjuntos textuais, denominados Corpus.
 
 De maneira simplificada, o NPL abrange um conjunto de técnicas que permitem a extração, quantificação, estimativa e modelagem abrangente de informações, bem como possibilita a interpretação empírica de decisões.
 
@@ -28,8 +28,27 @@ De modo mais generalista, quebramos o Corpus obtido seja pelo input manual ou mi
 
 Existem pelo menos duas formas de realizar a análise de sentimentos:
 
+
 $$sentimento = Palavras_{positivas} - Palavras_{negativas} \tag{1}$$
 
 $$e$$
 
 $$sentimento = \frac {Palavras_{positivas} - Palavras_{negativas}}{TotalDePalavras} \tag{2}$$
+
+Iremos adotar o método (2), pois com ele é possível obter a participação relativa do sentimento.
+
+### Dicionário
+
+A análise de sentimentos requer um dicionário que capture o valor semântico das palavras para garantir a qualidade da interpretação. 
+
+De acordo com (Loughran and McDonald 2011), 73,8% das palavras corriqueiras do dia-dia apresentam um contexto diferente quando aplicadas as finanças, portanto, ao utilizar-se de um dicionário genérico, a interpretação do Corpus pode ser equivocada. 
+
+Por esse motivo, iremos utilizar o dicionário de Loughran McDonald.
+
+## Resultados
+
+![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/132edb86-852f-4260-9f2f-788df4444e94)
+
+![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/fe57eb25-5edb-4779-ada8-f071b17d827a)
+
+
