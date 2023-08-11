@@ -56,5 +56,7 @@ Por esse motivo, iremos utilizar o dicionário de Loughran McDonald.
 ## Referências
 
 Costa, Hudson Chaves. 2016. “Ensaios Em Macroeconomia Aplicada.”
+
 Loughran, Tim, and Bill McDonald. 2011. “When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks.” The Journal of Finance 66 (1): 35–65.
+
 Nopp, Clemens, and Allan Hanbury. 2015. “Detecting Risks in the Banking System by Sentiment Analysis.” In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, 591–600.
