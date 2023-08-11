@@ -1,4 +1,3 @@
-::: {align="justify"}
 
 ## Introdução
 
@@ -52,6 +51,4 @@ Por esse motivo, iremos utilizar o dicionário de Loughran McDonald.
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/132edb86-852f-4260-9f2f-788df4444e94)
 
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/fe57eb25-5edb-4779-ada8-f071b17d827a)
-
-:::
 
