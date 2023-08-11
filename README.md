@@ -1,3 +1,6 @@
+<div style="text-align: right">
+
+
 ## Introdução
 
 Neste conteúdo, exploraremos uma abordagem econômica menos convencional, utilizando técnicas de Processamento de Linguagem Natural (NPL) para quantificar informações categoricamente nas atas do comite de politica montetária (COPOM).
@@ -51,4 +54,4 @@ Por esse motivo, iremos utilizar o dicionário de Loughran McDonald.
 
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/fe57eb25-5edb-4779-ada8-f071b17d827a)
 
-
+</div>
