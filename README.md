@@ -57,16 +57,6 @@ Por esse motivo, iremos utilizar o dicionário de Loughran McDonald.
 
 Costa, Hudson Chaves. 2016. “Ensaios Em Macroeconomia Aplicada.”
 
-<!-- html table generated in R 4.1.0 by xtable 1.8-4 package -->
-<!-- Fri Aug 11 15:27:58 2023 -->
-<table border=1>
-<caption align="bottom"> Exemplo de tabela em LaTeX </caption>
-<tr> <th> fundo </th> <th> a </th> <th> ß </th> <th> pvalue_a </th> <th> pvalue_ß </th>  </tr>
-  <tr> <td> teste1 </td> <td align="right"> 486.17 </td> <td align="right"> 22.23 </td> <td align="right"> 0.00 </td> <td align="right"> 0.46 </td> </tr>
-  <tr> <td> teste2 </td> <td align="right"> 486.17 </td> <td align="right"> 22.23 </td> <td align="right"> 0.00 </td> <td align="right"> 0.46 </td> </tr>
-   <a name=tabela_exemplo></a>
-</table>
-
 Loughran, Tim, and Bill McDonald. 2011. “When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks.” The Journal of Finance 66 (1): 35–65.
 
 Nopp, Clemens, and Allan Hanbury. 2015. “Detecting Risks in the Banking System by Sentiment Analysis.” In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, 591–600.
