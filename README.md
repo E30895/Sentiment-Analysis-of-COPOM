@@ -1,4 +1,4 @@
-## Resumo
+# Resumo
 
 Esse trabalho foi desenvolvido para a disciplina de econometria financeira. Abordaremos uma
 vertente não tão ortodoxa na economia, usando os algoritimos de processamento de linguagem natural (NPL) para mensurar informações categoricamente nas atas do Comitê de Política
@@ -9,7 +9,7 @@ as respostas para essas perguntas no decorrer do material. No limite, estamos in
 entender as relações dos sentimentos mensurados com as variações macroeconomicas.
 
 
-## Bibliotecas
+# Bibliotecas
 
 As bibliotecas utilizadas para o desenvolvimento do trabalho foram:
 
@@ -26,7 +26,7 @@ library(ggtext)
 library(lmtest)
 library(wordcloud2)
 ```
-## As funções
+# As funções
 
 As funções desenvolvidas para a modularização do projeto são:
 
@@ -57,7 +57,7 @@ onde:
 | 09_get_OLS_models.R         | `get_model()`              | Obtem o modelo básico                   |
 | 09_get_OLS_models.R         | `get_model_diff()`         | Obtem o modelo diferenciado             |
 
-## Executando
+# Executando
 
 Para executar o código, vamos utilizar as funções apresentadas
 anteriormente nesta ordem:
@@ -80,3 +80,14 @@ submetidas a um processo de processamento. É importante destacar que
 estamos fazendo uso da função **`get_series()`** para baixar
 determinadas séries diretamente do Sistema Gerenciador de Séries
 Temporais (SGS).
+
+# Conclusão
+
+Os métodos de Processamento de Linguagem Natural (NPL) possuem bastante espaço na análise econômica, e isso é evidenciado, por exemplo, pelo Índice de Incerteza calculado pela FGV,
+que faz uso desses métodos. A análise da série de sentimentos revelou que esta apresenta
+oscilações e quedas em momentos de crise. À medida que nos aproximamos de períodos turbulentos, os sentimentos positivos cedem lugar aos sentimentos negativos e à incerteza.
+É importante mencionar que os modelos apresentados não são os mais adequados para a análise de séries temporais. Modelos VAR(p) foram estimados mas apresentaram consideráveis
+inconsistências sem tempo hábil para resolução. Entretanto, apesar dessas limitações, os modelos iniciais proporcionaram insights valiosos que merecem ser explorados em futuras oportunidades, sugerindo que estamos próximos de obter resultados significativos.
+Para concluir, enfatiza-se a importância de manter o acompanhamento periódico das séries
+de sentimentos, juntamente com o Índice de Incerteza, como um indicador fundamental para
+compreender os bastidores econômicos e antecipar tendências
