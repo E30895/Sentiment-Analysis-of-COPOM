@@ -83,11 +83,11 @@ Temporais (SGS).
 
 # Conclusão
 
-Os métodos de Processamento de Linguagem Natural (NPL) possuem bastante espaço na análise econômica, e isso é evidenciado, por exemplo, pelo Índice de Incerteza calculado pela FGV,
+Os métodos de Processamento de Linguagem Natural (NPL) possuem bastante espaço na análise econômica, e isso é evidenciado, por exemplo, pelo Índice de Incerteza calculado pela FGV,
 que faz uso desses métodos. A análise da série de sentimentos revelou que esta apresenta
 oscilações e quedas em momentos de crise. À medida que nos aproximamos de períodos turbulentos, os sentimentos positivos cedem lugar aos sentimentos negativos e à incerteza.
 É importante mencionar que os modelos apresentados não são os mais adequados para a análise de séries temporais. Modelos VAR(p) foram estimados mas apresentaram consideráveis
-inconsistências sem tempo hábil para resolução. Entretanto, apesar dessas limitações, os modelos iniciais proporcionaram insights valiosos que merecem ser explorados em futuras oportunidades, sugerindo que estamos próximos de obter resultados significativos.
+inconsistências sem tempo hábil para resolução. Entretanto, apesar dessas limitações, os modelos iniciais proporcionaram insights valiosos que merecem ser explorados em futuras oportunidades, sugerindo que estamos próximos de obter resultados significativos.
 Para concluir, enfatiza-se a importância de manter o acompanhamento periódico das séries
 de sentimentos, juntamente com o Índice de Incerteza, como um indicador fundamental para
 compreender os bastidores econômicos e antecipar tendências
