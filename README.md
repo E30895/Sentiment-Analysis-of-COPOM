@@ -1,6 +1,10 @@
 ## Sobre
 
-Esse trabalho foi desenvolvido para a disciplina de econometria financeira. Abordaremos uma vertente não tão ortodoxa na economia, usando os algoritimos de processamento de linguagem natural (NPL) para mensurar informações categoricamente nas atas do Comitê de Política Monetária (COPOM). O gatilho ocorre ao redor de duas perguntas fundamentais: podemos mensurar a expectativa do agente formulador da política monetária? E, caso a primeira seja afirmada, nos leva para a segunda: os testes empíricos sustentam a mensuração? Buscaremos as respostas para essas perguntas no decorrer do material. No limite, estamos interessados em entender as relações dos sentimentos mensurados com as variações macroeconomicas.
+A metodologia empregada inicia-se com a utilização de métodos empíricos com o propósito
+de mensurar os sentimentos do Comitê de Política Monetária ao longo do tempo. Para essa
+finalidade, faz-se uso da API fornecida pelo Banco Central, que disponibiliza as atas em língua
+inglesa desde janeiro de 2000. É relevante notar que a data original das atas é mantida intacta,
+visando à construção de uma série temporal dos sentimentos.
 
 ## Bibliotecas
 
