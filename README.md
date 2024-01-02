@@ -90,4 +90,4 @@ oscilações e quedas em momentos de crise. À medida que nos aproximamos de per
 inconsistências sem tempo hábil para resolução. Entretanto, apesar dessas limitações, os modelos iniciais proporcionaram insights valiosos que merecem ser explorados em futuras oportunidades, sugerindo que estamos próximos de obter resultados significativos.
 Para concluir, enfatiza-se a importância de manter o acompanhamento periódico das séries
 de sentimentos, juntamente com o Índice de Incerteza, como um indicador fundamental para
-compreender os bastidores econômicos e antecipar tendências
+compreender os bastidores econômicos e antecipar tendências.
