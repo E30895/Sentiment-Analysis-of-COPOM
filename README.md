@@ -1,5 +1,3 @@
-![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/f8a52fd7-6b31-4058-aa31-61a08279a6a5)# Resumo
-
 Esse trabalho foi desenvolvido para a disciplina de econometria financeira. Abordaremos uma
 vertente não tão ortodoxa na economia, usando os algoritimos de processamento de linguagem natural (NLP) para mensurar informações categoricamente nas atas do Comitê de Política
 Monetária (COPOM). O gatilho ocorre ao redor de duas perguntas fundamentais: podemos
