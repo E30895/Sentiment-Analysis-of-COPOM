@@ -25,6 +25,7 @@ library(ggtext)
 library(lmtest)
 library(wordcloud2)
 ```
+
 # As funções
 
 As funções desenvolvidas para a modularização do projeto são:
@@ -83,8 +84,6 @@ Temporais (SGS).
 # Resultados
 
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/0f1f0a25-b3c7-42fa-9289-5b1b224fe342)
-
-
 
 
 # Conclusão
