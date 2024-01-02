@@ -5,8 +5,7 @@ vertente não tão ortodoxa na economia, usando os algoritimos de processamento 
 Monetária (COPOM). O gatilho ocorre ao redor de duas perguntas fundamentais: podemos
 mensurar a expectativa do agente formulador da política monetária? E, caso a primeira seja
 afirmada, nos leva para a segunda: os testes empíricos sustentam a mensuração? Buscaremos
-as respostas para essas perguntas no decorrer do material. No limite, estamos interessados em
-entender as relações dos sentimentos mensurados com as variações macroeconomicas.
+as respostas para essas perguntas no decorrer do material.
 
 
 # Bibliotecas
