@@ -82,13 +82,8 @@ Temporais (SGS).
 
 # Resultados
 
+![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/7a7f6531-a0de-4cd4-b9b7-b5358515ebe3)
 
-# Resultados2
-![image]()
-
-<img src="https://github.com/E30895/Sentiment-Analysis-of-COPOM/raw/main/assets/99520642/855e672a-d5b1-4ef7-b9b8-6e924ee09093](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/565dc493-d7ab-4bee-97a1-945b307475ac" style="width:100%;">
-
-<img src="https://github.com/E30895/Sentiment-Analysis-of-COPOM/raw/main/assets/99520642/1ab3b546-50f0-4435-a1ea-b29de735b07c" style="width:100%;">
 
 
 # Conclusão
