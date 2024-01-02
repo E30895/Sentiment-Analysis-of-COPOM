@@ -1,7 +1,7 @@
 # Resumo
 
 Esse trabalho foi desenvolvido para a disciplina de econometria financeira. Abordaremos uma
-vertente não tão ortodoxa na economia, usando os algoritimos de processamento de linguagem natural (NPL) para mensurar informações categoricamente nas atas do Comitê de Política
+vertente não tão ortodoxa na economia, usando os algoritimos de processamento de linguagem natural (NLP) para mensurar informações categoricamente nas atas do Comitê de Política
 Monetária (COPOM). O gatilho ocorre ao redor de duas perguntas fundamentais: podemos
 mensurar a expectativa do agente formulador da política monetária? E, caso a primeira seja
 afirmada, nos leva para a segunda: os testes empíricos sustentam a mensuração? Buscaremos
@@ -83,7 +83,7 @@ Temporais (SGS).
 
 # Conclusão
 
-Os métodos de Processamento de Linguagem Natural (NPL) possuem bastante espaço na análise econômica, e isso é evidenciado, por exemplo, pelo Índice de Incerteza calculado pela FGV,
+Os métodos de Processamento de Linguagem Natural (NLP) possuem bastante espaço na análise econômica, e isso é evidenciado, por exemplo, pelo Índice de Incerteza calculado pela FGV,
 que faz uso desses métodos. A análise da série de sentimentos revelou que esta apresenta
 oscilações e quedas em momentos de crise. À medida que nos aproximamos de períodos turbulentos, os sentimentos positivos cedem lugar aos sentimentos negativos e à incerteza.
 É importante mencionar que os modelos apresentados não são os mais adequados para a análise de séries temporais. Modelos VAR(p) foram estimados mas apresentaram consideráveis
