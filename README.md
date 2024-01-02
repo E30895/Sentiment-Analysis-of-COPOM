@@ -1,3 +1,5 @@
+# Introdução
+
 Esse trabalho foi desenvolvido para a disciplina de econometria financeira. Abordaremos uma
 vertente não tão ortodoxa na economia, usando os algoritimos de processamento de linguagem natural (NLP) para mensurar informações categoricamente nas atas do Comitê de Política
 Monetária (COPOM). O gatilho ocorre ao redor de duas perguntas fundamentais: podemos
