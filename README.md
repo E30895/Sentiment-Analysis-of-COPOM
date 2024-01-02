@@ -1,4 +1,4 @@
-# Resumo
+![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/f8a52fd7-6b31-4058-aa31-61a08279a6a5)# Resumo
 
 Esse trabalho foi desenvolvido para a disciplina de econometria financeira. Abordaremos uma
 vertente não tão ortodoxa na economia, usando os algoritimos de processamento de linguagem natural (NLP) para mensurar informações categoricamente nas atas do Comitê de Política
@@ -82,15 +82,13 @@ Temporais (SGS).
 
 # Resultados
 
-![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/bbd8945f-30d7-4d42-8290-bcc169a430f9){ width=100% }
-
-![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/9f1ca044-08fc-47eb-9b27-e4129200af74){ width=100% }
 
 # Resultados2
+![image]()
 
-<img src="https://github.com/E30895/Sentiment-Analysis-of-COPOM/raw/main/assets/99520642/855e672a-d5b1-4ef7-b9b8-6e924ee09093" alt="Descrição da primeira imagem" style="width:100%;">
+<img src="https://github.com/E30895/Sentiment-Analysis-of-COPOM/raw/main/assets/99520642/855e672a-d5b1-4ef7-b9b8-6e924ee09093](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/565dc493-d7ab-4bee-97a1-945b307475ac" style="width:100%;">
 
-<img src="https://github.com/E30895/Sentiment-Analysis-of-COPOM/raw/main/assets/99520642/1ab3b546-50f0-4435-a1ea-b29de735b07c" alt="Descrição da segunda imagem" style="width:100%;">
+<img src="https://github.com/E30895/Sentiment-Analysis-of-COPOM/raw/main/assets/99520642/1ab3b546-50f0-4435-a1ea-b29de735b07c" style="width:100%;">
 
 
 # Conclusão
