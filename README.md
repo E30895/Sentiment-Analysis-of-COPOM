@@ -12,7 +12,7 @@ as respostas para essas perguntas no decorrer do material.
 
 As bibliotecas utilizadas para o desenvolvimento do trabalho foram:
 
-```{r, warning=FALSE, error=FALSE, message=FALSE}
+```{r
 library(tidyverse)
 library(jsonlite)
 library(curl)
