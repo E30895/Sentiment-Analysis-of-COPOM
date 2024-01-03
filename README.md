@@ -96,9 +96,9 @@ Temporais (SGS).
 
 # Conclusão
 
-Antes da autonomia do banco central, instituída nos últimos 3 anos, ele passou por reformas internas, alterando o Layout e o formato de seus comunicados, refletindo o número de palavras e tamanho do documento, passando a adotar uma redação mais sucinta e direta.
-
 Os métodos de Processamento de Linguagem Natural (NLP) possuem bastante espaço na análise econômica, e isso é evidenciado, por exemplo, pelo Índice de Incerteza calculado pela FGV, que faz uso desses métodos. 
+
+Antes da autonomia do banco central, instituída nos últimos 3 anos, ele passou por reformas internas, alterando o Layout e o formato de seus comunicados, refletindo o número de palavras e tamanho do documento, passando a adotar uma redação mais sucinta e direta.
 
 A análise da série de sentimentos revelou que esta apresenta oscilações e quedas em momentos de crise. À medida que nos aproximamos de períodos turbulentos, os sentimentos positivos cedem lugar aos sentimentos negativos e à incerteza.
 
