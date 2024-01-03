@@ -83,10 +83,6 @@ Temporais (SGS).
 
 # Resultados
 
-## Núvem de Palavras
-
-A núvem de palavras abaixo apresenta a contagem das palavras presentes nas atas do Comitê de Política Monetária (COPOM):
-
 ![image](https://github.com/E30895/Sentiment-Analysis-of-COPOM/assets/99520642/bb0ba760-7306-40a0-b6ca-46e2a8e67ad3)
 
 
