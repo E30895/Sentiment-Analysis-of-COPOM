@@ -30,7 +30,7 @@ library(wordcloud2)
 
 As funções desenvolvidas para a modularização do projeto são:
 
-```{r, warning=FALSE, error=FALSE, message=FALSE}
+```{r
 source('01_get_atas.R')
 source('02_get_transform_atas.R')
 source('03_get_Loughran_McDonald.R')
