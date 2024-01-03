@@ -98,10 +98,11 @@ Temporais (SGS).
 
 Os métodos de Processamento de Linguagem Natural (NLP) possuem bastante espaço na análise econômica, e isso é evidenciado, por exemplo, pelo Índice de Incerteza calculado pela FGV, que faz uso desses métodos. 
 
+A núvem de palavras nos mostrou as palavras que mais apareceram nas atas do COPOM. Em especial, vemos grande presença das palavras aumento, inflação, taxa, risco, produto entre muitas outras. As palavras são particularmente importantes, uma vez que representam a essência do comunicado.
+
 Antes da autonomia do banco central, instituída nos últimos 3 anos, ele passou por reformas internas, alterando o Layout e o formato de seus comunicados, refletindo o número de palavras e tamanho do documento, passando a adotar uma redação mais sucinta e direta.
 
 A análise da série de sentimentos revelou que esta apresenta oscilações e quedas em momentos de crise. À medida que nos aproximamos de períodos turbulentos, os sentimentos positivos cedem lugar aos sentimentos negativos e à incerteza.
-
 
 É importante mencionar que os modelos apresentados não são os mais adequados para a análise de séries temporais. Modelos VAR(p) foram estimados mas apresentaram consideráveis
 inconsistências sem tempo hábil para resolução. Entretanto, apesar dessas limitações, os modelos iniciais proporcionaram insights valiosos que merecem ser explorados em futuras oportunidades, sugerindo que estamos próximos de obter resultados significativos.
