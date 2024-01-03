@@ -62,7 +62,7 @@ onde:
 Para executar o código, vamos utilizar as funções apresentadas
 anteriormente nesta ordem:
 
-```{r, warning=FALSE, error=FALSE, message=FALSE, results='hide', cache=T, fig.show='hide'}
+```{r
 atas = get_atas()
 atas_token = get_transform_atas(atas)
 Loughran_McDonald = get_Loughran_McDonald()
